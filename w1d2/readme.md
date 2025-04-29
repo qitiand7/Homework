@@ -1,4 +1,4 @@
-deply
+deploy
 https://sepolia.etherscan.io/tx/0x196113cac51f2e831a855f1145f0678d0eb74b1a6d8c42b1bccc05ec63e631ee
 
 count +1
